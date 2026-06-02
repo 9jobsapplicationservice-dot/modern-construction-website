@@ -130,7 +130,7 @@ export const EnquiryForm: React.FC = () => {
               </div>
               <div>
                 <span className="text-[9px] text-brand-textMuted uppercase block font-bold">Headquarters</span>
-                <span className="font-bold leading-normal">Level 18, 101 Collins St, Melbourne VIC 3000</span>
+                <span className="font-bold leading-normal">Melbourne VIC, 3000</span>
               </div>
             </div>
           </div>
